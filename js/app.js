@@ -22,3 +22,8 @@ let user_ages = [20,30,40,35,45];
 let first_user_name = user_names[0];
 let last_user_names = user_names[4];
 let middle_user_age = user_ages[2];
+console.log(first_user_name);
+console.log(last_user_names);
+console.log(middle_user_age);
+user_names.push(`navdeep`);
+console.log(user_names);
