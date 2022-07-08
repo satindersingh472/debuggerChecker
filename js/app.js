@@ -19,3 +19,6 @@ console.log(max_volume/current_value);
 console.log(max_volume/current_value * 100);
 let user_names = [`aman`, `mandeep`, `arvinder`, `teejay`, `jass`];
 let user_ages = [20,30,40,35,45];
+let first_user_name = user_names[0];
+let last_user_names = user_names[4];
+let middle_user_age = user_ages[2];
